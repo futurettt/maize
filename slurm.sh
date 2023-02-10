@@ -1,4 +1,3 @@
-
 #!/bin/bash
 #SBATCH --job-name=bwa # Job name
 #SBATCH --mail-type=END,FAIL         # Mail events (NONE, BEGIN, END, FAIL, ALL)
